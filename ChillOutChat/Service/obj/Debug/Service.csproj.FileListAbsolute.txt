@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\ProjekatRVA\ChillOutChat\Service\bin\Debug\Service.exe.config
+C:\Users\PC\Desktop\ProjekatRVA\ChillOutChat\Service\bin\Debug\Service.exe
+C:\Users\PC\Desktop\ProjekatRVA\ChillOutChat\Service\bin\Debug\Service.pdb
+C:\Users\PC\Desktop\ProjekatRVA\ChillOutChat\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProjekatRVA\ChillOutChat\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProjekatRVA\ChillOutChat\Service\obj\Debug\Service.exe
+C:\Users\PC\Desktop\ProjekatRVA\ChillOutChat\Service\obj\Debug\Service.pdb
